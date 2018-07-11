@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Reddit_API</string>
+    <string-array name="types">
+        <item>Hot</item>
+        <item>New</item>
+        <item>Top</item>
+        <item>Controversial</item>
+    </string-array>
+</resources>
